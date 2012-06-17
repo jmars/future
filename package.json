@@ -1,0 +1,12 @@
+{
+  "author": "Jaye Marshall",
+  "name": "future",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
